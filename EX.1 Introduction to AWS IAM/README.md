@@ -69,6 +69,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** PRIYADHARSHINI P 
+**Reg No:** 212224040252
 **Course:** Introduction to Cloud Computing  
 
