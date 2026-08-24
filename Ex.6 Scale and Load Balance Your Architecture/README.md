@@ -3,7 +3,9 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+Author Name: PRIYADHARSHINI P   
+Reg no :212224040252    
+Date :24-08-2026
 
 ---
 
@@ -71,6 +73,10 @@ Describe step-by-step how you performed this experiment in your own words.
 ---
 
 ## Output Screenshots 
+<img width="1596" height="946" alt="image" src="https://github.com/user-attachments/assets/2feb81b7-d510-491d-a21b-f5235c782b3d" />
+
+<img width="1597" height="947" alt="image" src="https://github.com/user-attachments/assets/35c4e2a9-7224-490d-aa7d-93d977c05242" />
+
 
 
 ---
